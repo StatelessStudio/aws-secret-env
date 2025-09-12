@@ -1,10 +1,10 @@
 {
-	"name": "{{project-name}}",
+	"name": "aws-secret-env",
 	"version": "1.0.0",
-	"description": "{{project-name}}",
+	"description": "aws-secret-env",
 	"private": "true",
 	"bin": {
-		"{{project-name}}": "./bin/index.js"
+		"aws-secret-env": "./bin/index.js"
 	},
 	"typescript-template": {
 		"base": "1.0.1",
@@ -45,14 +45,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/{{project-org}}/{{project-name}}.git"
+		"url": "git+https://github.com/aws-secret-env/aws-secret-env.git"
 	},
-	"author": "{{project-org}}",
+	"author": "aws-secret-env",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/{{project-org}}/{{project-name}}/issues"
+		"url": "https://github.com/aws-secret-env/aws-secret-env/issues"
 	},
-	"homepage": "https://github.com/{{project-org}}/{{project-name}}#readme",
+	"homepage": "https://github.com/aws-secret-env/aws-secret-env#readme",
 	"keywords": [],
 	"dependencies": {
 		"ts-commands": "^2.0.0"

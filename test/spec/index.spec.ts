@@ -1,7 +1,7 @@
 import 'jasmine';
 import * as index from '../../src';
 
-describe('{{project-name}}', () => {
+describe('aws-secret-env', () => {
 	it('exports a', () => {
 		expect(index.a).toBeTrue();
 	});

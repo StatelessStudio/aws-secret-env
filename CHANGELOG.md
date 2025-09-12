@@ -1,1 +1,1 @@
-# {{project-name}} - Changelog
+# aws-secret-env - Changelog

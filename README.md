@@ -1,4 +1,4 @@
-# {{project-name}} - Readme
+# aws-secret-env - Readme
 
 ## Contributing & Development
 
