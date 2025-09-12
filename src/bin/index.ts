@@ -2,6 +2,8 @@
 
 import { CommandDispatcher } from 'ts-commands';
 
+import { PullCommand } from './pull';
+
 new CommandDispatcher({
-	commands: [],
+	commands: [PullCommand],
 }).run();

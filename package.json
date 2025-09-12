@@ -55,6 +55,7 @@
 	"homepage": "https://github.com/aws-secret-env/aws-secret-env#readme",
 	"keywords": [],
 	"dependencies": {
+		"@aws-sdk/client-secrets-manager": "^3.887.0",
 		"ts-commands": "^2.0.0"
 	}
 }
