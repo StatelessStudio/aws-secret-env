@@ -1,5 +1,9 @@
 # aws-secret-env - Readme
 
-## Contributing & Development
+## Installation
 
-See [contributing.md](docs/contributing/contributing.md) for information on how to develop or contribute to this project!
+`npm i -g aws-secret-env`
+
+## Usage
+
+`npx aws-secret-env pull --awsAccessId=XXXXX --awsAccessKey=XXXXX --secret=prod/myapp/env --region=us-east-1`
