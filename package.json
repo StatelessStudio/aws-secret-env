@@ -39,7 +39,6 @@
 		"ts-node": "^10.9.2",
 		"ts-packager": "^1.1.0",
 		"ts-script": "^1.0.0",
-		"ts-tiny-log": "^1.1.1",
 		"typedoc": "^0.26.1",
 		"typescript": "~5.4.2"
 	},
@@ -56,6 +55,7 @@
 	"keywords": [],
 	"dependencies": {
 		"@aws-sdk/client-secrets-manager": "^3.887.0",
-		"ts-commands": "^2.0.0"
+		"ts-commands": "^2.0.0",
+		"ts-tiny-log": "^1.1.1"
 	}
 }
