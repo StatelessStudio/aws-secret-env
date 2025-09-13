@@ -1,6 +1,6 @@
 {
 	"name": "aws-secret-env",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "aws-secret-env",
 	"private": "true",
 	"bin": {
@@ -39,23 +39,23 @@
 		"ts-node": "^10.9.2",
 		"ts-packager": "^1.1.0",
 		"ts-script": "^1.0.0",
-		"ts-tiny-log": "^1.1.1",
 		"typedoc": "^0.26.1",
 		"typescript": "~5.4.2"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/aws-secret-env/aws-secret-env.git"
+		"url": "git+https://github.com/StatelessStudio/aws-secret-env.git"
 	},
-	"author": "aws-secret-env",
+	"author": "StatelessStudio",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/aws-secret-env/aws-secret-env/issues"
+		"url": "https://github.com/StatelessStudio/aws-secret-env/issues"
 	},
-	"homepage": "https://github.com/aws-secret-env/aws-secret-env#readme",
+	"homepage": "https://github.com/StatelessStudio/aws-secret-env#readme",
 	"keywords": [],
 	"dependencies": {
 		"@aws-sdk/client-secrets-manager": "^3.887.0",
-		"ts-commands": "^2.0.0"
+		"ts-commands": "^2.0.0",
+		"ts-tiny-log": "^1.1.1"
 	}
 }
