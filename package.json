@@ -44,14 +44,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/aws-secret-env/aws-secret-env.git"
+		"url": "git+https://github.com/StatelessStudio/aws-secret-env.git"
 	},
-	"author": "aws-secret-env",
+	"author": "StatelessStudio",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/aws-secret-env/aws-secret-env/issues"
+		"url": "https://github.com/StatelessStudio/aws-secret-env/issues"
 	},
-	"homepage": "https://github.com/aws-secret-env/aws-secret-env#readme",
+	"homepage": "https://github.com/StatelessStudio/aws-secret-env#readme",
 	"keywords": [],
 	"dependencies": {
 		"@aws-sdk/client-secrets-manager": "^3.887.0",
